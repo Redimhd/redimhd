@@ -26,9 +26,19 @@ title: Mohamad 1 page
   * Item2
   * wefewf
 
-###### tis is h6 tag
+###### this is h6 tag
+
 
 > I've always been more intrested
+
+**This text will be bold**
+
+*This text will Italic*
+
+> *You **can** combine them* 
+
+
+
 
 
 
